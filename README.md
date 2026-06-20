@@ -4,7 +4,7 @@ CEP312 Tools Manager
 ## Requierments
 Program require `requests` libary.
 ```
-.\python.exe pip install requests
+.\python.exe -m pip install requests
 ```
 
 ## Installation command:
